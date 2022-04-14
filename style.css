@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Square Peg', cursive;
+    background-color: aliceblue;
+}
+
+.heading
+{
+    background-color: cornflowerblue;
+    color: pink;
+    font-size: larger;
+    font-weight: bold;
+}
+
+p
+{
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 10px;
+}
+
+.btn-success
+{
+    font-family: fantasy;
+    margin-top: 8px;
+    font-weight: bold;
+    width: 50%;
+    letter-spacing: 5px;
+}
+
+#footer_dev
+{
+    background-color: rgb(255, 208, 255);
+    color: brown;
+    width: 100%;
+    font-size: 15px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(20, 0, 94);
+}
